@@ -6,4 +6,4 @@ from math import fmod
 
 
 def main(a, b):
-    return fmod(a / b)
+    return a % b
