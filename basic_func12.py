@@ -5,7 +5,6 @@
 
 
 def main(a):
-    return a
+    return round(a)
 
 
-result = round(main(a), 2)
