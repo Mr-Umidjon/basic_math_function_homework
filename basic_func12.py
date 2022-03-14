@@ -5,6 +5,6 @@
 
 
 def main(a):
-    return round(a)
+    return round(a, 2)
 
 
