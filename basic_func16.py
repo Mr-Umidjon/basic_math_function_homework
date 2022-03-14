@@ -4,4 +4,4 @@
 # from math import fsum
 
 def main(a, b):
-    return sum(a, b)
+    return a + b
